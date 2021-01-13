@@ -1,0 +1,23 @@
+------Data for Registration Number: DN09HRM------
+Reg No: DN09HRM is displayed - PASS
+Make: BMWis displayed - PASS
+Model: 320D Seis displayed - PASS
+Color: Black is displayed - PASS
+Year: 2009 is displayed - PASS
+
+Reg No: BW57 BOW is NOT displayed - FAIL
+
+------Data for Registration Number: KT17DLX------
+Reg No: KT17DLX is displayed - PASS
+Make: Skodais displayed - PASS
+Model: Superb Sportline Tdi S-Ais displayed - PASS
+Color: White is displayed - PASS
+Year: 2017 is displayed - PASS
+
+------Data for Registration Number: SG18HTN------
+Reg No: SG18HTN is displayed - PASS
+Make: Volkswagenis displayed - PASS
+Model: Golf Se Navigation Tsi Evois displayed - PASS
+Color: White is displayed - PASS
+Year: 2018 is displayed - PASS
+
